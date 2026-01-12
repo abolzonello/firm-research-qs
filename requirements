@@ -1,7 +1,2 @@
 cd C:\Users\Alex\Documents\consulting_scraper
 notepad requirements.txt
-beautifulsoup4==4.12.3
-selenium==4.26.1
-webdriver-manager==4.0.2
-requests==2.32.5
-
